@@ -1,2 +1,0 @@
-# Placeholders
-First swiftUI project
